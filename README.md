@@ -6,7 +6,7 @@ This is a collection of my personal programming projects that are further segmen
 
 1. Personal Programming Projects
     - Business Data Analytics
-    - Wellness Industry Analytics
+    - Wellness and Healthcare Industry Analytics
     - Education Analytics
     
 2. Public Tableau Visualizations
