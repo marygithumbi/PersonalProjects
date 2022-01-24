@@ -19,5 +19,4 @@ My name is Mary and I was formally trained in Neuroscience and the philosophical
 
 | Contact Method |  |
 | --- | --- |
-| Professional Email | mary.githumbi@mail.utoronto.ca |
 | LinkedIn | https://www.linkedin.com/in/mary-githumbi/
